@@ -16,7 +16,7 @@ I use [LazyVim] with some minor changes. Most of the things are provided by Lazy
 My tmux configuration includes:
 - `history-limit` set to `10000`;
 - `C-Space` as the new prefix;
-- Plugins like [vim-tmux-navigator] and [Catppuccin] for theming.
+- Plugins like [vim-tmux-navigator] and [Catppuccin (tmux)] for theming.
 
 [vim-tmux-navigator]: https://github.com/christoomey/vim-tmux-navigator
-[Catppuccin]: https://github.com/catppuccin/tmux
+[Catppuccin (tmux)]: https://github.com/catppuccin/tmux
