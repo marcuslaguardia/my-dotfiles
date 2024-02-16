@@ -3,7 +3,7 @@
 This repository is where I store my personal configuration for [Neovim], [tmux], etc. Feel free to replicate my settings.
 
 ## Neovim
-I use [LazyVim] with some minor changes. Most of the things are provided by LazyVim out of the box. The changes include:
+I use [LazyVim] with some minor changes. Most of the settings I use are already provided by LazyVim out of the box. The changes include:
 - [Catppuccin] as the default colorscheme;
 - [vim-tmux-navigator] for smoother navigation with tmux;
 - Extra remaps.
