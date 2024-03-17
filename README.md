@@ -8,6 +8,11 @@ I use [LazyVim] with some minor changes. Most of the settings I use are already 
 - [vim-tmux-navigator] for smoother navigation with tmux;
 - Extra remaps.
 
+### Dependencies
+- A Nerd Font, I'm current using [JetBrainsMono Nerd Font];
+- A C compiler (gcc).
+
+[JetBrainsMono Nerd Font]: https://www.nerdfonts.com/font-downloads
 [LazyVim]: https://github.com/LazyVim/LazyVim
 [Catppuccin]: https://github.com/catppuccin/nvim
 [vim-tmux-navigator]: https://github.com/christoomey/vim-tmux-navigator
